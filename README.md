@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @akmallyerzakovv
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me ...
 
 <!---
