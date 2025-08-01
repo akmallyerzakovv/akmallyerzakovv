@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akmallyerzakovv
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning C++, Git
+- 🌱 I’m currently learning Linux and much more about DevOps
 - 📫 How to reach me ...
 
 <!---
